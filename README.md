@@ -10,7 +10,7 @@ A clean, desktop scientific calculator built with **Python** and **Tkinter**.
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 <!-- Replace this with your own screenshot: put it in an "images" folder -->
-<img src="images/screenshot.png" alt="Scientific Calculator Screenshot" width="360">
+<img src="images/screenshot.PNG" alt="Scientific Calculator Screenshot" width="360">
 
 </div>
 
